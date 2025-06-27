@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  browserless:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-06-27T08:09:38.460281948Z"
+    description: A Helm chart for Kubernetes
+    digest: 95c952ae655e4e6721dba4bf775277d2a8c3679019566bf64f240f56fe39ac46
+    name: browserless
+    type: application
+    urls:
+    - https://github.com/linbuxiao/helm-charts/releases/download/browserless-0.1.2/browserless-0.1.2.tgz
+    version: 0.1.2
+generated: "2025-06-27T08:09:38.460292107Z"
